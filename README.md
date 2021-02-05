@@ -1,11 +1,7 @@
 # Smart-Receipt-Generator
 A python based GUI App to send billing receipt to the customer through e-mail using python.
 
+<h1 id="video">
+	Things That You should Know....
+</h1><br>
 
-<iframe height="600" width="800" src="https://www.youtube.com/watch?v=vkfLOmbklks"
- allowfullscreen="allowfullscreen"
-        mozallowfullscreen="mozallowfullscreen" 
-        msallowfullscreen="msallowfullscreen" 
-        oallowfullscreen="oallowfullscreen" 
-        webkitallowfullscreen="webkitallowfullscreen">
- </iframe>
