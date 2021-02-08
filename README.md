@@ -4,7 +4,7 @@ A python based GUI App to send billing receipt to the customer through e-mail us
 <a href="https://www.youtube.com/watch?v=vkfLOmbklks"><img src="app.png" align="center"></a>
 
 ## Youtube Link: <a href="https://www.youtube.com/watch?v=vkfLOmbklks">https://www.youtube.com/watch?v=vkfLOmbklks</a>
-
+## How to use : <a href="https://github.com/Dnyaneshwar-dev/Smart-Receipt-Generator/blob/main/How_to_use.md">click here</a>
 
 ## Lets Learn more about it...
 
