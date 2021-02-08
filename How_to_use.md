@@ -13,3 +13,7 @@
  
  +Make sure that PC is connected to internet.After successfully sending message the sent window will appear.
  <img src="images/5.png" align="center">
+
+
+ + Check Your sent folder in G-Mail to confirm.
+ <img src="images/6.png" align="center">
