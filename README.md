@@ -12,8 +12,8 @@ A python based GUI App to send billing receipt to the customer through e-mail us
 ## Lets Learn more about it...
 
 ## Python tools used:
-  + Kivy GUI library (Learn more about kivy : <a href = "https://kivy.org/">https://kivy.org/</a>
+  + Kivy GUI library (Learn more about kivy : <a href = "https://kivy.org/">https://kivy.org/</a>)
   + smtplib in Python (Simple Mail Transfer Protocol)
-    get more information about smtplib : <a href="https://docs.python.org/3/library/smtplib.html">https://docs.python.org/3/library/smtplib.html</a>
+      + get more information about smtplib : <a href="https://docs.python.org/3/library/smtplib.html">https://docs.python.org/3/library/smtplib.html</a>
   + FPDF library in Python(for creating pdfs) 
-    checkout it at : <a href="https://pypi.org/project/fpdf/">https://pypi.org/project/fpdf/</a>
+      + checkout it at : <a href="https://pypi.org/project/fpdf/">https://pypi.org/project/fpdf/</a>
