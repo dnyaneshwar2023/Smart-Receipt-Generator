@@ -1,7 +1,7 @@
 # Smart-Receipt-Generator
 A python based GUI App to send billing receipt to the customer through e-mail using python.
 
-[![](http://img.youtube.com/vi/vkfLOmbklks/0.jpg)](http://www.youtube.com/watch?v=vkfLOmbklks "Smart-Receipt")
+<img src="app.png" align="center">
 
 ## Youtube Link: <a href="https://www.youtube.com/watch?v=vkfLOmbklks">https://www.youtube.com/watch?v=vkfLOmbklks</a>
 
