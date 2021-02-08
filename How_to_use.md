@@ -14,7 +14,7 @@
  <img src="images/4.png" align="center">
  
  
- +Make sure that PC is connected to internet.After successfully sending message the sent window will appear.
+ + Make sure that PC is connected to internet.After successfully sending message the sent window will appear.
  <img src="images/5.png" align="center">
 
 
