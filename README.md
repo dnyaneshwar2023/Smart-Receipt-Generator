@@ -21,6 +21,10 @@ A python based GUI App to send billing receipt to the customer through e-mail us
 
 ## Important Instructions before using
   + If we want to use mail service of google account we need to allow less secure app access for using SMTP service.
-  You can follow this link to allow less secure app access:<a href="https://myaccount.google.com/lesssecureapps">https://myaccount.google.com/lesssecureapps</a>
+    + You can follow this link to allow less secure app access:<a href="https://myaccount.google.com/lesssecureapps">https://myaccount.google.com/lesssecureapps</a>
   
   <img src="app_access.png">
+
+
+
+## Always open for any further suggestions...
