@@ -1,8 +1,8 @@
 ## Lets get started...
   ## Installing Kivy through terminal
-   + pip insall kivy or pip3 install kivy
-  ## Installing smtplib throught terminal
-   + pip install smtplib or pip3 install smtplib
+   + pip insall kivy / pip3 install kivy
+  ## Installing FPDF throught terminal
+   + pip install fpdf / pip3 install fpdf
   ## First there will  be login with Google account window.Fill the correct credentials and click on SUBMIT
    <img src="images/1.png" align="center">
    
